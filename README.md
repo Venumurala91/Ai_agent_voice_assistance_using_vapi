@@ -9,7 +9,6 @@ ai-voice-calling-assistant
 
 ---
 
-### 📄 README.md (you can copy-paste this into your GitHub repo)
 
 ```markdown
 # 📞 AI Voice Calling Assistant for Customer Communication
